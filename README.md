@@ -25,6 +25,3 @@ node mass-token-transfer.js --from 0xaaaef272eadaabfccd2f11cb1838d917c506bfe5 --
 node mass-token-transfer.js --help
 ```
 
-## License
-
-MIT © [SmartDec](smartdec.net)
